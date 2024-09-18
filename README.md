@@ -75,7 +75,7 @@ Ensure both servers are running. Open `http://localhost:3000` in your browser.
 This project is licensed under the MIT License.
 
 ## Owner
-Abhay Singh
+Ajay Kumar
 
 ---
 
